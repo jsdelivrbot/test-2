@@ -25,7 +25,7 @@
 			},
 			"dfpData" : {
 				"metadata" : {
-					"property" : "nick_app",
+					"property" : "nick",
 					"hub" : "breaking",
 					"is_main" : true
 				},
