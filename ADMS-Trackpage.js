@@ -11,7 +11,7 @@
         "eVar1"    : "remote value of evar 1",
         "eVar75"    : "remote value of evar 75",
         "channel"  : "remote sandbox channel",
-        "events" : "event16",
+        "events" : "event20,event32",
         "contextData"   : {
             "m.contextDataKey1"    : "testcontextvalue1",
             "contextDataKey2"    : "testcontextvalue2",
