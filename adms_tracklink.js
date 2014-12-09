@@ -1,6 +1,7 @@
 [
 {
 "linkName" : "Test link name - TL",
+"pageName": "Page Name - TL",
 "channel" : "kums test channel - TL",
 "prop1" : "remote value of prop 1 - TL",
 "prop11" : "remote value of prop 11 - TL",
