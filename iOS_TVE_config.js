@@ -1,10 +1,16 @@
 [
 	{
-		"admsMeasureEnabled" : true,
-		"admsReportSuiteIDs"   : "viarnd",
-		"admsOfflineTrackingEnabled": true,
-		"admsTimeSpentTrackingEnabled" : true,
-	  	"audienceManagerEnabled": true,
+		"admsMeasureEnabled": true,
+	"admsReportSuiteIDs": "viarnd",
+	"admsCharacterSet": "ISO-8859-1",
+	"admsCurrencyCode": "USD",
+	"admsSslEnabled": false,
+	"admsLifecycleSessionTimeout": 300,
+	"admsTrackingServer": "sc.mtv.com",
+	"admsVisitorID": "",
+	"admsDebugLoggingEnabled": true,
+	"admsOfflineTrackingEnabled": true,
+	"audienceManagerEnabled": true
 		"tveEnabled" : true,
 		"tveContextData" : {
 			"TVEContextDataSignInStartPageName" : "test_rig_sign_in_start",
