@@ -10,7 +10,7 @@
 	"admsVisitorID": "",
 	"admsDebugLoggingEnabled": true,
 	"admsOfflineTrackingEnabled": true,
-	"audienceManagerEnabled": true
+	"audienceManagerEnabled": true,
 		"tveEnabled" : true,
 		"tveContextData" : {
 			"TVEContextDataSignInStartPageName" : "test_rig_sign_in_start",
