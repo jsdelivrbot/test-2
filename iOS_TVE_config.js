@@ -3,6 +3,7 @@
 		"admsMeasureEnabled" : true,
 		"admsReportSuiteIDs"   : "viarnd",
 		"admsOfflineTrackingEnabled": true,
+		"admsTimeSpentTrackingEnabled" : true,
 	  	"audienceManagerEnabled": true,
 		"tveEnabled" : true,
 		"tveContextData" : {
