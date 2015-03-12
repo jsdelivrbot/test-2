@@ -6,7 +6,7 @@
 "width" : 300,
 "height" : 250,
 "appName" : "btg_test_app",
-"sections" : "",
+"sections" : "home",
 "enableCloseButton" : true,
 "closeButtonInterval" : 5,
 "isRefreshable" : false,
