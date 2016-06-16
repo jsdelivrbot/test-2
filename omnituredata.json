@@ -2,7 +2,7 @@
 {
   count : 7,
   brands : [
-    {
+    	 {
 	    id: "cc-1"
 	    data:
 	      {
