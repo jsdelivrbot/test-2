@@ -1,0 +1,54 @@
+	
+{
+  count : 7,
+  brands : [
+    {
+	    id: "cc-1"
+	    data:
+	      {
+		      "omnitureSuite"   : "viarnd-CC1",
+		      "omnitureChannel" : "Bento TestRig Channel CC1",
+	      }
+	  },
+	  {
+	    id: "cc-2"
+	    data:
+	      {
+		      "omnitureSuite"   : "viarnd-CC2",
+		      "omnitureChannel" : "Bento TestRig Channel CC2",
+	      }
+	  },
+	  {
+	    id: "cc-3"
+	    data:
+	      {
+		      "omnitureSuite"   : "viarnd-CC3",
+		      "omnitureChannel" : "Bento TestRig Channel CC3",
+	      }
+	  },
+	  {
+	    id: "cc-4"
+	    data:
+	      {
+		      "omnitureSuite"   : "viarnd-CC4",
+		      "omnitureChannel" : "Bento TestRig Channel CC4",
+	      }
+	  },
+	  {
+	    id: "cc-5"
+	    data:
+	      {
+		      "omnitureSuite"   : "viarnd-CC5",
+		      "omnitureChannel" : "Bento TestRig Channel CC5",
+	      }
+	  },
+	  {
+	    id: "cc-6"
+	    data:
+	      {
+		      "omnitureSuite"   : "viarnd-CC6",
+		      "omnitureChannel" : "Bento TestRig Channel CC6",
+	      }
+	  }
+	]  
+}
