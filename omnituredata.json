@@ -49,6 +49,14 @@
 		      "omnitureSuite"   : "viarnd-CC6",
 		      "omnitureChannel" : "Bento TestRig Channel CC6",
 	      }
+	  },
+	  {
+	    id: "cc-7"
+	    data:
+	      {
+		      "omnitureSuite"   : "viarnd-CC7",
+		      "omnitureChannel" : "Bento TestRig Channel CC7",
+	      }
 	  }
 	]  
 }
