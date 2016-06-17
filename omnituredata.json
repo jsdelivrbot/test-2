@@ -3,7 +3,7 @@
   "count" : 7,
   "brands" : [
     	 {
-	    "id": "cc-1"
+	    "id": "cc-1",
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC1",
@@ -11,7 +11,7 @@
 	      }
 	  },
 	  {
-	    "id": "cc-2"
+	    "id": "cc-2",
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC2",
@@ -19,7 +19,7 @@
 	      }
 	  },
 	  {
-	    "id": "cc-3"
+	    "id": "cc-3",
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC3",
@@ -27,7 +27,7 @@
 	      }
 	  },
 	  {
-	    "id": "cc-4"
+	    "id": "cc-4",
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC4",
@@ -35,7 +35,7 @@
 	      }
 	  },
 	  {
-	    "id": "cc-5"
+	    "id": "cc-5",
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC5",
@@ -43,7 +43,7 @@
 	      }
 	  },
 	  {
-	    "id": "cc-6"
+	    "id": "cc-6",
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC6",
@@ -51,7 +51,7 @@
 	      }
 	  },
 	  {
-	    "id": "cc-7"
+	    "id": "cc-7",
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC7",
