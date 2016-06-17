@@ -1,0 +1,14 @@
+	
+{
+  "count" : 7,
+  "brands" : [
+    	 {
+	    "id": "cc-1",
+	    "data":
+	      {
+		      "omnitureSuite"   : "viarnd-CC1",
+		      "omnitureChannel" : "Bento TestRig Channel CC1",
+	      }
+	  }
+	]  
+}
