@@ -7,7 +7,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC1",
-		      "omnitureChannel" : "Bento TestRig Channel CC1",
+		      "omnitureChannel" : "Bento TestRig Channel CC1"
 	      }
 	  },
 	  {
@@ -15,7 +15,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC2",
-		      "omnitureChannel" : "Bento TestRig Channel CC2",
+		      "omnitureChannel" : "Bento TestRig Channel CC2"
 	      }
 	  },
 	  {
@@ -23,7 +23,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC3",
-		      "omnitureChannel" : "Bento TestRig Channel CC3",
+		      "omnitureChannel" : "Bento TestRig Channel CC3"
 	      }
 	  },
 	  {
@@ -31,7 +31,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC4",
-		      "omnitureChannel" : "Bento TestRig Channel CC4",
+		      "omnitureChannel" : "Bento TestRig Channel CC4"
 	      }
 	  },
 	  {
@@ -39,7 +39,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC5",
-		      "omnitureChannel" : "Bento TestRig Channel CC5",
+		      "omnitureChannel" : "Bento TestRig Channel CC5"
 	      }
 	  },
 	  {
@@ -47,7 +47,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC6",
-		      "omnitureChannel" : "Bento TestRig Channel CC6",
+		      "omnitureChannel" : "Bento TestRig Channel CC6"
 	      }
 	  },
 	  {
@@ -55,7 +55,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC7",
-		      "omnitureChannel" : "Bento TestRig Channel CC7",
+		      "omnitureChannel" : "Bento TestRig Channel CC7"
 	      }
 	  }
 	]  
