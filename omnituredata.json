@@ -8,7 +8,7 @@
 	      {
 		      "omnitureSuite"   : "viarnd-CC",
 		      "omnitureChannel" : "Bento comedy channel",
-		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
+		      "mgid" : "mgid:uma:video:mtv.com:813210"
 	      }
 	  },
 	  {
@@ -17,7 +17,7 @@
 	      {
 		      "omnitureSuite"   : "viarnd-MTV",
 		      "omnitureChannel" : "Bento MTV Channel",
-		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
+		      "mgid" : "mgid:uma:video:mtv.com:813215"
 	      }
 	  },
 	  {
@@ -26,7 +26,7 @@
 	      {
 		      "omnitureSuite"   : "viarnd-SPIKE",
 		      "omnitureChannel" : "Bento SPIKE Channel",
-		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
+		      "mgid" : "mgid:uma:video:mtv.com:843300"
 	      }
 	  },
 	  {
@@ -35,7 +35,7 @@
 	      {
 		      "omnitureSuite"   : "viarnd-VH1",
 		      "omnitureChannel" : "Bento VH1 Channel",
-		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
+		      "mgid" : "mgid:cq:video:bet.com:eec098c6-310e-327c-b1aa-3afadc8f2745"
 	      }
 	  },
 	  {
@@ -44,7 +44,7 @@
 	      {
 		      "omnitureSuite"   : "viarnd-CC5",
 		      "omnitureChannel" : "Bento TestRig Channel CC5",
-		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
+		      "mgid" : "mgid:cq:video:bet.com:5daa4572-0530-332e-a7c6-6630457b20ef"
 	      }
 	  },
 	  {
@@ -53,7 +53,7 @@
 	      {
 		      "omnitureSuite"   : "viarnd-CC6",
 		      "omnitureChannel" : "Bento TestRig Channel CC6",
-		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
+		      "mgid" : "mgid:cq:video:bet.com:0875181b-8394-34f3-818d-8d6a3e419c6e"
 	      }
 	  },
 	  {
