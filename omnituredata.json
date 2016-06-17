@@ -3,35 +3,36 @@
   "count" : 7,
   "brands" : [
     	 {
-	    "id": "cc-1",
+	    "id": "CC",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC1",
-		      "omnitureChannel" : "Bento TestRig Channel CC1"
+		      "omnitureSuite"   : "viarnd-CC",
+		      "omnitureChannel" : "Bento comedy channel",
+		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
 	      }
 	  },
 	  {
-	    "id": "cc-2",
+	    "id": "MTV",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC2",
-		      "omnitureChannel" : "Bento TestRig Channel CC2"
+		      "omnitureSuite"   : "viarnd-MTV",
+		      "omnitureChannel" : "Bento MTV Channel"
 	      }
 	  },
 	  {
-	    "id": "cc-3",
+	    "id": "SPIKE",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC3",
-		      "omnitureChannel" : "Bento TestRig Channel CC3"
+		      "omnitureSuite"   : "viarnd-SPIKE",
+		      "omnitureChannel" : "Bento SPIKE Channel"
 	      }
 	  },
 	  {
-	    "id": "cc-4",
+	    "id": "VH1",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC4",
-		      "omnitureChannel" : "Bento TestRig Channel CC4"
+		      "omnitureSuite"   : "viarnd-VH1",
+		      "omnitureChannel" : "Bento VH1 Channel"
 	      }
 	  },
 	  {
