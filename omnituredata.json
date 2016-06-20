@@ -6,7 +6,7 @@
 	    "id": "CC",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC",
+		      "omnitureSuite"   : "Sample Title-CC",
 		      "omnitureChannel" : "Comedy channel",
 		      "mgid" : "mgid:uma:video:mtv.com:813210"
 	      }
@@ -15,7 +15,7 @@
 	    "id": "MTV",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-MTV",
+		      "omnitureSuite"   : "Sample Title-MTV",
 		      "omnitureChannel" : "MTV Channel",
 		      "mgid" : "mgid:uma:video:mtv.com:813215"
 	      }
@@ -24,7 +24,7 @@
 	    "id": "SPIKE",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-SPIKE",
+		      "omnitureSuite"   : "Sample Title-SPIKE",
 		      "omnitureChannel" : "SPIKE Channel",
 		      "mgid" : "mgid:uma:video:mtv.com:843300"
 	      }
@@ -33,7 +33,7 @@
 	    "id": "VH1",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-VH1",
+		      "omnitureSuite"   : "Sample Title-VH1",
 		      "omnitureChannel" : "VH1 Channel",
 		      "mgid" : "mgid:cq:video:bet.com:eec098c6-310e-327c-b1aa-3afadc8f2745"
 	      }
@@ -42,7 +42,7 @@
 	    "id": "cc-5",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC5",
+		      "omnitureSuite"   : "Sample Title-CC5",
 		      "omnitureChannel" : "Sample Channel CC5",
 		      "mgid" : "mgid:cq:video:bet.com:5daa4572-0530-332e-a7c6-6630457b20ef"
 	      }
@@ -51,7 +51,7 @@
 	    "id": "cc-6",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC6",
+		      "omnitureSuite"   : "Sample Title-CC6",
 		      "omnitureChannel" : "Sample Channel CC6",
 		      "mgid" : "mgid:cq:video:bet.com:0875181b-8394-34f3-818d-8d6a3e419c6e"
 	      }
@@ -60,7 +60,7 @@
 	    "id": "cc-7",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC7",
+		      "omnitureSuite"   : "Sample Title-CC7",
 		      "omnitureChannel" : "Sample Channel CC7",
 		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
 	      }
@@ -69,7 +69,7 @@
 	    "id": "cc-8",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC8",
+		      "omnitureSuite"   : "Sample Title-CC8",
 		      "omnitureChannel" : "Sample Channel CC8",
 		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
 	      }
@@ -78,8 +78,8 @@
 	    "id": "cc-9",
 	    "data":
 	      {
-		      "omnitureSuite"   : "viarnd-CC8",
-		      "omnitureChannel" : "Sample Channel CC8",
+		      "omnitureSuite"   : "Sample Title-CC99",
+		      "omnitureChannel" : "Sample Channel CC9",
 		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
 	      }
 	  }
