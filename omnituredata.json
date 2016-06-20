@@ -7,7 +7,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC",
-		      "omnitureChannel" : "Bento comedy channel",
+		      "omnitureChannel" : "Comedy channel",
 		      "mgid" : "mgid:uma:video:mtv.com:813210"
 	      }
 	  },
@@ -16,7 +16,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-MTV",
-		      "omnitureChannel" : "Bento MTV Channel",
+		      "omnitureChannel" : "MTV Channel",
 		      "mgid" : "mgid:uma:video:mtv.com:813215"
 	      }
 	  },
@@ -25,7 +25,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-SPIKE",
-		      "omnitureChannel" : "Bento SPIKE Channel",
+		      "omnitureChannel" : "SPIKE Channel",
 		      "mgid" : "mgid:uma:video:mtv.com:843300"
 	      }
 	  },
@@ -34,7 +34,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-VH1",
-		      "omnitureChannel" : "Bento VH1 Channel",
+		      "omnitureChannel" : "VH1 Channel",
 		      "mgid" : "mgid:cq:video:bet.com:eec098c6-310e-327c-b1aa-3afadc8f2745"
 	      }
 	  },
@@ -43,7 +43,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC5",
-		      "omnitureChannel" : "Bento TestRig Channel CC5",
+		      "omnitureChannel" : "Sample Channel CC5",
 		      "mgid" : "mgid:cq:video:bet.com:5daa4572-0530-332e-a7c6-6630457b20ef"
 	      }
 	  },
@@ -52,7 +52,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC6",
-		      "omnitureChannel" : "Bento TestRig Channel CC6",
+		      "omnitureChannel" : "Sample Channel CC6",
 		      "mgid" : "mgid:cq:video:bet.com:0875181b-8394-34f3-818d-8d6a3e419c6e"
 	      }
 	  },
@@ -61,7 +61,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC7",
-		      "omnitureChannel" : "Bento TestRig Channel CC7",
+		      "omnitureChannel" : "Sample Channel CC7",
 		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
 	      }
 	  },
@@ -70,7 +70,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC8",
-		      "omnitureChannel" : "Bento TestRig Channel CC8",
+		      "omnitureChannel" : "Sample Channel CC8",
 		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
 	      }
 	  },
@@ -79,7 +79,7 @@
 	    "data":
 	      {
 		      "omnitureSuite"   : "viarnd-CC8",
-		      "omnitureChannel" : "Bento TestRig Channel CC8",
+		      "omnitureChannel" : "Sample Channel CC8",
 		      "mgid" : "mgid:arc:episode:comedycentral.com:65eee9ff-1d6b-418c-9167-7a25213f75d8"
 	      }
 	  }
