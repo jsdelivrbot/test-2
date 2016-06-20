@@ -30,11 +30,11 @@
 	      }
 	  },
 	  {
-	    "id": "VH1",
+	    "id": "BET",
 	    "data":
 	      {
-		      "omnitureSuite"   : "Sample Title-VH1",
-		      "omnitureChannel" : "VH1 Channel",
+		      "omnitureSuite"   : "Sample Title-BET",
+		      "omnitureChannel" : "BET Channel",
 		      "mgid" : "mgid:cq:video:bet.com:eec098c6-310e-327c-b1aa-3afadc8f2745"
 	      }
 	  },
